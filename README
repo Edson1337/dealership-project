@@ -1,0 +1,1 @@
+This is a learning repository on Django and DRF for a car dealership application.
